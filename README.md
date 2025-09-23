@@ -119,7 +119,13 @@ If you require access to the pre-trained models for:
 
 Please feel free to contact me directly. I would be happy to share the model files individually under appropriate academic agreements.
 
-```‍‍
+
+**Contact for model requests:**
+- 📧 Email: alireza.rahi@outlook.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/alireza-rahi-6938b4154/
+
+I typically respond to academic requests within 24-48 hours.
+```bash
 ## Citation
 
 If you use this work in your research, please cite the paper:
@@ -131,8 +137,3 @@ If you use the code implementation (software, scripts, etc.), please also cite:
 > **Rahi, A.** (2025). *Stacked CNN Architectures for Robust Brain Tumor MRI Classification* [Computer software]. GitHub repository, *AlirezaRahi/Brain-Tumor*. Retrieved from https://github.com/AlirezaRahi/Brain-Tumor
 
 
-**Contact for model requests:**
-- 📧 Email: alireza.rahi@outlook.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/alireza-rahi-6938b4154/
-
-I typically respond to academic requests within 24-48 hours.
