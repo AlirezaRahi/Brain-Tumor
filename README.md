@@ -37,7 +37,7 @@ project-root/
 ├── ResNet50_DenseNet121_Ensemble.py # Ensemble model implementation
 └── README.md # This file
 
-text
+
 
 ##  Model Architectures
 
@@ -119,7 +119,7 @@ If you require access to the pre-trained models for:
 
 Please feel free to contact me directly. I would be happy to share the model files individually under appropriate academic agreements.
 
-
+```‍‍
 ## Citation
 
 If you use this work in your research, please cite the paper:
